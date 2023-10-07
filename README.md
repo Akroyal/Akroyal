@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Amit
+- Welcome to my profile.
+-  👋 Hi, I’m Amit
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning in TUlas Institute 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Tulas 
+- 📫 
 
 <!---
 Akroyal/Akroyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
